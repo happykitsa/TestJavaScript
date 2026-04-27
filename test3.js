@@ -1,4 +1,4 @@
-const tableau1 = [1, 2, 3, 4, 5];
+const tableau1 = [1, 8, 3, 4, 5];
 const tableau2 = [6, 7, 8, 9, 10];
 const tableau3 = [11, 12, 13, 14, 15];
 const tableauMoyenne =[];
